@@ -8,4 +8,4 @@
    rmdir: remove a directory
    touch: make a new file
    rm: remove the files or directories from computer
-   clear: clearing up the screen
+   clear: clearing up the screens
